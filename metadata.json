@@ -1,0 +1,6 @@
+{
+  "name": "LinkBioQR",
+  "description": "A Link-in-Bio QR code generator to centralize and share your digital presence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
